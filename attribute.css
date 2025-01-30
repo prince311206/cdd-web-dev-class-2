@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-1 {
+          border: 7px solid black;
+          margin: 20px;
+          padding: 20px;
+          background-color: aqua;
+          color: blue;
+}
+.main-2 {
+    border: 7px solid rgb(220, 11, 11);
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(25, 219, 167);
+    color: rgb(152, 110, 242);
+}
+.main-3 {
+    border: 7px solid rgb(167, 229, 10);
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(240, 234, 116);
+    color: rgb(21, 61, 5);
+}
